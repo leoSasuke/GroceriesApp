@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/GroceriesApp/static/css/main.b6b287cd.chunk.css",
+    "main.js": "/GroceriesApp/static/js/main.37d1d947.chunk.js",
+    "main.js.map": "/GroceriesApp/static/js/main.37d1d947.chunk.js.map",
+    "runtime-main.js": "/GroceriesApp/static/js/runtime-main.62a2797a.js",
+    "runtime-main.js.map": "/GroceriesApp/static/js/runtime-main.62a2797a.js.map",
+    "static/js/2.ee2e74e8.chunk.js": "/GroceriesApp/static/js/2.ee2e74e8.chunk.js",
+    "static/js/2.ee2e74e8.chunk.js.map": "/GroceriesApp/static/js/2.ee2e74e8.chunk.js.map",
+    "static/js/3.d409afc3.chunk.js": "/GroceriesApp/static/js/3.d409afc3.chunk.js",
+    "static/js/3.d409afc3.chunk.js.map": "/GroceriesApp/static/js/3.d409afc3.chunk.js.map",
+    "index.html": "/GroceriesApp/index.html",
+    "static/css/main.b6b287cd.chunk.css.map": "/GroceriesApp/static/css/main.b6b287cd.chunk.css.map",
+    "static/js/2.ee2e74e8.chunk.js.LICENSE.txt": "/GroceriesApp/static/js/2.ee2e74e8.chunk.js.LICENSE.txt",
+    "static/media/drinks.225aa864.jpg": "/GroceriesApp/static/media/drinks.225aa864.jpg",
+    "static/media/fruits.14267037.png": "/GroceriesApp/static/media/fruits.14267037.png",
+    "static/media/search1.ada25577.webp": "/GroceriesApp/static/media/search1.ada25577.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62a2797a.js",
+    "static/js/2.ee2e74e8.chunk.js",
+    "static/css/main.b6b287cd.chunk.css",
+    "static/js/main.37d1d947.chunk.js"
+  ]
+}

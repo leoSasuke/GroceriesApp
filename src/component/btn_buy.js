@@ -1,11 +1,10 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext } from 'react';
 import RecipesContext from '../context/RecipesContext';
 
 import '../App.css';
 
 export default function Buy(){
   const{ setCartNum, cartNum } = useContext(RecipesContext);
-  // const [count, setCount] = useState(0);
 
   const click = () =>{
     if (localStorage.sub) {

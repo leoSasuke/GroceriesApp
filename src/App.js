@@ -13,7 +13,7 @@ import './App.css';
 function App() {
   
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Switch>
       <RecipesProvider>
         <Route exact path="/" component={ Fruits }/>

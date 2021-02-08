@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import Header from '../component/header';
 import Contador from '../component/Contador';
 import Drinks from '../service/drinks';
+import Btn from '../component/btn_buy';
 
 export default function Page() {
   const [produto, setProduto] = useState([]);
@@ -28,6 +29,7 @@ export default function Page() {
             <h4>{ el.weigth }</h4>
             <h3>{ `$ ${el.price}` }</h3>
             <div className="count"><Contador /></div>
+            <div><Btn /></div>
           </div>
         ))}
        </div>
